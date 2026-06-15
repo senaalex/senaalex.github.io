@@ -3,22 +3,27 @@
 
 @import "minimal-mistakes";
 
-$primary-color: #F58F7C;
-$link-color: #F58F7C;
-$link-color-hover: #F2C4CE;
-
-.btn--primary {
-  background-color: #F58F7C;
-  border-color: #F58F7C;
-}
-.btn--primary:hover {
-  background-color: #F2C4CE;
-  color: #2C2B30;
-}
-
+/* Links */
 a {
   color: #F58F7C;
 }
 a:hover {
   color: #F2C4CE;
+}
+
+/* Primary buttons */
+.btn--primary {
+  background-color: #F58F7C !important;
+  border-color: #F58F7C !important;
+  color: #fff !important;
+}
+.btn--primary:hover {
+  background-color: #F2C4CE !important;
+  color: #2C2B30 !important;
+}
+
+/* Page titles */
+.page__title,
+.archive__item-title {
+  color: #2C2B30;
 }
