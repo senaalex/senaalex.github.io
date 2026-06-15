@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
-title: "Sena Alex"
+title: "My Portfolio"
 description: "Data & Research Analyst · AI in Business"
 url: "https://sealex2123.github.io"
 
