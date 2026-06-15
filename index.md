@@ -10,7 +10,14 @@ header:
       url: "/projects/"
     - label: "About Me"
       url: "/about/"
-excerpt: "AI in Business Graduate · Data Analytics · Research · Healthcare & Biotech"
+excerpt: "AI in Business Graduate · Data Analytics · Research · Customer Experience"
+
+{% include feature_row id="intro" type="center" %}
+<p align="center">
+  <img src="/IMG_8542.jpg" alt="Sena Alex" width="300" style="border-radius: 8px;">
+</p>
+
+
 intro:
   - excerpt: "I graduated from Arizona State University's W.P. Carey School of Business with a Master's in Artificial Intelligence in Business. My background spans biological sciences, research, customer experience, and data analytics. My work focuses on using data, AI tools, and business strategy to understand problems, identify patterns, and support better decision-making."
 feature_row:
@@ -30,11 +37,5 @@ feature_row:
     btn_label: "View Resume"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-<p align="center">
-  <img src="/IMG_8542.jpg" alt="Sena Alex" width="300" style="border-radius: 8px;">
-</p>
 
 {% include feature_row %}
