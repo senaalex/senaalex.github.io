@@ -18,7 +18,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/senaalex"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-gemail"
       url: "senaealex@gmail.com"
 
 minimal_mistakes_skin: "default"
